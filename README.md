@@ -27,3 +27,6 @@ python run.py
 ```
 python publisher.py
 ```
+
+### Saiba mais
+Saiba mais em [Steves Guide](http://www.steves-internet-guide.com/)
